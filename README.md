@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👋 Hey there! I'm Rudranil Mondal<br>I'm a passionate developer currently diving deep into Data Structures & Algorithms, while also building cool and purposeful side projects. Whether it's full-stack web apps or AI-powered tools, I love turning ideas into real, working solutions.<br><br>🛠️ Tech I'm Comfortable With:<br>Languages: JavaScript, C++, Python (learning 🚀)<br><br>Web: Node.js, Express, MongoDB, React<br><br>Tools: Git, GitHub, Postman, Upstash, Arcjet<br><br>🌱 Currently Learning:<br>Mastering DSA<br><br>Building smart systems with AI agents and voice interfaces<br><br>🔨 Projects I'm proud of:<br>💬 AI Interviewer (Voice-powered) – mock interviews using voice + memory<br><br>📊 Subscription Tracker – track and manage service subscriptions with expiry alerts<br><br>📚 Outside Code:<br>I enjoy solving problems, reading books like Atomic Habits, and always exploring new tech ideas. I believe in consistency, clarity, and continuous learning.
 
 
