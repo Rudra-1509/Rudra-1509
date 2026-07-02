@@ -1,5 +1,53 @@
-#  About Me:
-👋 Hey there! I'm Rudranil Mondal<br>I'm a passionate developer currently diving deep into Data Structures & Algorithms, while also building cool and purposeful side projects. Whether it's full-stack web apps or AI-powered tools, I love turning ideas into real, working solutions.<br><br>🛠️ Tech I'm Comfortable With:<br>Languages: JavaScript, C++, Python (learning 🚀)<br><br>Web: Node.js, Express, MongoDB, React<br><br>Tools: Git, GitHub, Postman, Upstash, Arcjet<br><br>🌱 Currently Learning:<br>Mastering DSA<br><br>Building smart systems with AI agents and voice interfaces<br><br>🔨 Projects I'm proud of:<br>💬 AI Interviewer (Voice-powered) – mock interviews using voice + memory<br><br>📊 Subscription Tracker – track and manage service subscriptions with expiry alerts<br><br>📚 Outside Code:<br>I enjoy solving problems, reading books like Atomic Habits, and always exploring new tech ideas. I believe in consistency, clarity, and continuous learning.
+# 👋 About Me
+
+Hi, I'm **Rudranil Mondal**.
+
+I'm a Computer Science undergraduate at **NIT Durgapur** passionate about building intelligent software systems at the intersection of **AI, Large Language Models, and Full-Stack Development**. I enjoy designing applications that solve real problems—from multi-agent AI systems to voice-based assistants—and continuously sharpen my problem-solving skills through Data Structures & Algorithms.
+
+## 🚀 What I'm Working On
+
+* 🤖 Building AI-powered applications with **LLMs, LangGraph, and Multi-Agent Systems**
+* 📈 Strengthening my DSA and system design skills
+* 🌐 Developing scalable full-stack applications with modern web technologies
+
+## 🛠️ Tech Stack
+
+**Languages**
+C++, Python, JavaScript, TypeScript, SQL
+
+**Frontend**
+React, Next.js, HTML, CSS, Tailwind CSS
+
+**Backend**
+Node.js, Express, FastAPI, REST APIs
+
+**AI & LLMs**
+LangChain, LangGraph, OpenAI API, Transformers, RAG, Prompt Engineering, Vector Databases, Vapi, Deepgram
+
+**Tools & Platforms**
+Git, GitHub, Docker, MongoDB, Firebase, Upstash, Postman, VS Code
+
+## 🌟 Featured Projects
+
+🤖 **Multi-Agent Orchestration System**
+A real-time AI orchestration platform where specialized agents collaborate using supervisor-based routing, live streaming, and autonomous tool execution.
+
+🎙️ **AI Mock Interviewer**
+A production-grade voice interview platform with real-time speech processing, conversational AI, and AI-generated interview evaluation.
+
+📚 **AI Study Assistant**
+An intelligent learning assistant that transforms PDFs, images, and notes into structured explanations using OCR, semantic retrieval, and transformer models.
+
+## 📖 Beyond Coding
+
+* 💡 Solving Data Structures & Algorithms problems
+* 🇯🇵 Learning Japanese (currently preparing for **JLPT N4**)
+* 📚 Reading books on productivity and self-improvement
+* 🔬 Exploring AI agents, LLMs, and emerging technologies
+
+---
+
+> *I enjoy building software that is not only functional but intelligent, scalable, and genuinely useful.*
 
 
 ## 🌐 Socials:
