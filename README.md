@@ -4,7 +4,7 @@
 
 ## 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge)](https://portfolio-64fzokobs-rudra-1509s-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge)](https://portfolio-orpin-beta-58.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudranil1509)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudranilmn1509@gmail.com)
 
